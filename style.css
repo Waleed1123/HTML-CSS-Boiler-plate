@@ -1,0 +1,40 @@
+/* Reset or normalize CSS goes here */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+html,
+body {
+  width: 100%;
+  height: 100%;
+}
+
+/* Global styles */
+body {
+  font-family: "Arial", sans-serif;
+}
+
+/* Button styles */
+.btn {
+  /* Button styles */
+  padding: 12px 8px;
+}
+
+/* Input styles */
+input[type="text"],
+textarea,
+select {
+  /* Input styles */
+}
+
+/* Navigation styles */
+nav {
+  /* Navigation styles */
+}
+
+/* Responsive styles */
+@media (max-width: 768px) {
+  /* Styles for smaller screens */
+}
